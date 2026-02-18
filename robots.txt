@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kalkachimneyservices.co.in/sitemap.xml
